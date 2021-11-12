@@ -1,0 +1,777 @@
+
+.dropdown-submenu {
+	position: relative;
+  }
+  
+.dropdown-submenu a::after {
+	transform: rotate(-90deg);
+	position: absolute;
+	right: 6px;
+	top: .8em;
+  }
+  
+  .dropdown-submenu .dropdown-menu {
+	top: 0;
+	left: 100%;
+	margin-left: .1rem;
+	margin-right: .1rem;
+  }
+.bg-light {
+    background: white !important;
+   }
+
+.navbar-nav .nav-link {
+	background-color: white !important;
+
+}
+
+.navbar{
+	height: 100px;
+
+
+	
+}
+.navbar ul{
+        padding-left: 50px;
+        
+}
+
+.navbar ul li a{
+	font-size: 18px;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+}
+
+.dropdown-item {
+	padding-top: 3px;
+	padding-right: 2rem;
+	padding-bottom: 3px;
+	padding-left: 1.5rem;
+}
+
+
+/*Home section*/
+
+.home{
+	width: 100%;
+	height: auto;
+	
+
+	background-color:  #457B9D;
+
+}
+
+
+.home h1{
+     font-size: 60px;
+	color: white;
+	margin-top: 110px;
+	margin-bottom: 40px;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+/* <!-- Hanzla Edited --> */
+.designNumber{
+	background-color: #fff;
+	margin: 2px;
+	color: #457B9D;
+	font-size: 24px;
+	font-weight: 600;
+	font-style: normal;
+	padding: 0 8px;
+	border-radius: 1px;
+	font-family: 'Times New Roman', Times, serif;
+}
+/* <!-- Hanzla Edited --> */
+
+
+.home h6{
+	color: white;
+	margin-bottom: 40px;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+.you1{
+	width: 315px;
+    height: 197px;
+    border-radius: 24px;
+    border: 1px solid #FFFCF4;
+}
+
+.you{
+	width: 300px;
+    height: 182px;
+    background: #F9FFFF;
+    border-radius: 24px;
+    border: 1px solid #FFFCF4;
+}
+
+
+
+.you h4{
+width: 222px;
+height: 56px;
+margin-top: 30px;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 28px;
+font-family: 'Raleway', sans-serif;
+/* or 100% */
+
+text-align: center;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #112A3A;
+}
+
+.you button{
+	margin-top: 35px;
+}
+
+
+.home h2{
+	color: white;
+	margin-top: 70px;
+	margin-bottom: 110px;
+	font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+/*Home section  End*/
+
+
+
+
+/*locat*/
+
+.locat{
+	width: 100%;
+	height: auto;
+	background-color: #ECF3F7;
+}
+
+.loc{
+	text-align: center;
+	width: 740px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+	background-color: white;
+	border: 1px solid #457B9D;
+    border-radius: 12px;
+}
+
+.loc h2{
+	margin-top: 50px;
+	color: #112A3A;
+	margin-bottom: 50px;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+}
+
+.loc i{
+	color: #CE3344;
+	margin-top: 20px;
+}
+
+
+.ano{
+	width: 263px;
+    height: 120px;
+    background: #FFFFFF;
+    margin-left: 250px;
+    margin-top: -150px;
+    border: 1px solid #457B9D;
+    box-sizing: border-box;
+    border-radius: 24px;
+}
+
+.in{
+	width: 60px;
+	height: 60px;
+	background-color: white;
+	border: 1px solid #CE3344;
+	border-radius: 100%;
+	margin-top: -30px;
+	
+
+}
+
+.in img{
+	width: 28px;
+	color:#CE3344 ;
+	text-align: center;
+	margin-top: 13px;
+}
+
+
+
+.ano2{
+	width: 263px;
+    height: 120px;
+    background: #FFFFFF;
+     margin-right: 250px;
+     margin-top: -150px;
+    border: 1px solid #457B9D;
+    box-sizing: border-box;
+    border-radius: 24px;
+}
+
+
+
+
+/*locat End*/
+
+
+
+
+
+
+
+/* Course Section */
+.course{
+	width: 100%;
+	height: auto;
+	background-color: white;
+}
+
+.course h1{
+	margin-top: 40px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.card1{
+ 
+    width: 360px;
+    height: 470px;
+    margin-bottom: 20px;
+    background-color: #ECF3F7;
+    border: 1px solid #457B9D;
+    border-radius: 12px;
+}
+
+
+
+.card1 img{
+	width: 312px;
+	margin: 25px;
+	border-radius: 12px;
+	text-align: left;
+	 border: 1px solid #457B9D;
+	background-color: white;
+
+
+}
+.card1 h5{
+	margin-left: 25px;
+	font-size: 24px;
+    line-height: 28px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+
+.card1 p{
+	margin-left: 25px;
+	margin-bottom: 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+.card1 button{
+	margin-right:200px;
+	
+
+}
+
+
+/*Course Section End*/
+
+
+
+
+
+
+/*Covid19 sction*/
+
+.covid{
+	width: 100%;
+	height: auto;
+}
+
+
+.bar{
+	width: width: 1420px;
+    height: 298px;
+    border: 1px solid #457B9D;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-bottom: 200px;
+}
+
+.covid h1{
+	text-align: center;
+	color: #CE3344;
+	margin-top: 50px;
+	font-weight: bold;font-family: 'Raleway', sans-serif;
+}
+
+.card2{
+	width: 300px;
+	height: 204px;
+	background: #ECF3F6;
+	border-radius: 24px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: 1px solid #457B9D;
+}
+
+.card2 p{
+
+position: absolute;
+width: 246px;
+
+font-family: 'Raleway', sans-serif;
+margin-left: 25px;
+margin-top: 40px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+
+text-align: center;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #112A3A;
+}
+
+
+
+/*Covid19 section End*/
+
+
+
+
+
+/*Tarining section*/
+
+.training{
+
+	width: 100%;
+	height: auto;
+	background-color: #ECF3F7;
+}
+
+
+.training h1{
+	text-align: center;
+	margin-top: 50px;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+.card3{
+width: 305px;
+height: 422px;
+margin-top: 50px;
+margin-bottom: 50px;
+
+
+background: #FFFFFF;
+/* frame */
+border: 1px solid #457B9D;
+box-sizing: border-box;
+border-radius: 24px;
+
+}
+
+
+.card3 h5{
+	margin-left: 20px;
+	font-weight: bold;
+	color: #112A3A;
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+}
+
+.card3 p{
+	margin-left:18px;
+	font-weight: normal;
+	color: #515A60;
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+}
+
+.icon{
+
+width: 80px;
+height: 80px;
+border-radius: 100%;
+margin-right: 150px;
+margin-bottom: 10px;
+background: #FFFFFF;
+border: 1px solid #CE3344;
+margin-top: 20px;
+
+}
+
+
+.icon img{
+
+	font-size: 50px;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 20px;
+	color: #CE3344;
+
+}
+
+/*Tarining section End*/
+
+
+
+
+/*Learn Section*/
+
+.learn{
+	width: 100%;
+	height: auto;
+}
+
+
+.learn h1{
+
+	text-align: center;
+	margin-top: 100px;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.learn p{
+
+	text-align: center;
+	margin-top: 10px;
+	font-weight: normal;
+	margin-bottom: 80px;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.bar2{
+	width: 1712px;
+height: 878px;
+background: #ECF3F6;
+border-radius: 42px;
+}
+
+.study{
+	width: 380px;
+    height: 1100px;
+    background: #FFFFFF;
+    margin-top: 80px;
+
+
+    border: 1px solid #457B9D;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+
+
+.extra{
+	width: 380px;
+	height: 150px;
+	background-color: #457B9D;
+	border-radius: 25px 25px 0px 0px;
+}
+
+.extra h5{
+	text-align: center;
+	color: white;
+     padding-top: 30px;
+     font-weight: 500;
+     font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+
+.study i{
+	font-size: 10px;
+	color: #CE3344 ;
+	padding-right: 20px;
+
+}
+
+
+
+.study h6{
+	text-align: left;
+	padding-left: 15px;
+	font-size: 16px;
+	padding-top: 20px;
+	line-height: 20px;
+	color:  #112A3A;
+	font-family: 'Raleway', sans-serif;
+}
+
+.study p{
+	padding-top: 10px;
+    padding-right: 45px;
+	text-align: left;
+	padding-left: 35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #515A60;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.study button{
+	
+	font-size: 18px;
+	margin-top: 30px;
+
+}
+
+
+/*Learn section End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*testimonial*/
+
+.rev{
+	width: 100%;
+	height: auto;
+}
+
+.rev h1{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 150px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.rev p{
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+.card4{
+ 
+    width: 360px;
+    height: 370px;
+    margin-bottom: 20px;
+    background-color: #ECF3F7;
+    border: 1px solid #457B9D;
+    border-radius: 12px;
+}
+
+
+
+.card4 img{
+	margin-right: 190px;
+	margin-top: 30px;
+    
+
+
+}
+.card4 h5{
+	margin-top: -65px;
+	margin-left: 60px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.card4 h6{
+	margin-left: 20px;
+	margin-top: -5px;
+	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
+
+
+
+}
+
+
+.card4 p{
+	text-align: left;
+	margin-top: 45px;
+	margin-left: 20px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.ic{
+	margin-right: 220px;
+    
+}
+
+.ic i{
+	color: #FFDE8A;
+}
+
+
+
+
+/*Testimonial end*/
+
+
+
+
+
+/*Faq Section*/
+
+.faq{
+	width: 100%;
+	height:auto;
+	background-color: #ECF3F7;
+}
+
+.faq h1{
+	margin-top: 100px;
+	text-align: center;
+	margin-bottom: 100px;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  margin-bottom: 20px;
+  border-radius: 24px;
+  width: 100%;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  border: 1px solid #457B9D;
+box-sizing: border-box;
+
+  
+
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  margin-top: -20px;
+  border-radius: 24px;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+
+
+
+/*faq section end*/
+
+
+
+/*Futter section*/
+
+.futter{
+	width: 100%;
+	height: auto;
+	background: #1E5375;
+}
+
+.futter img{
+	margin-top: 20px;
+	width: 145.45px;
+    height: 145.4px;
+    margin-bottom: 10px;
+}
+
+.futter i{
+	color: white;
+	margin-bottom: 20px;
+	font-size: 20px;
+	
+	
+
+}
+
+
+
+.futter h5{
+	color: white;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	font-family: 'Raleway', sans-serif;
+	
+
+}
+
+
+.futter p{
+	color: white;
+	line-height: 30px;
+	margin-bottom: 20px;
+	font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+/*Futter end*/

@@ -1,0 +1,282 @@
+
+
+
+@media only screen and (max-width: 1068px) {
+  .navbar{
+    height: auto;
+  }
+
+  .navbar img{
+   
+  	margin-top: -70px;
+  	margin-left: -80px;
+  }
+
+  .navbar i{
+  	padding-left: 40px;
+  }
+
+
+  .form i {
+    display: none;
+
+  }
+
+  .fa-search{
+    padding-left: 200px;
+
+  }
+
+  
+   
+
+   .bar{
+    border: 0px solid #457B9D;
+    width: width: 0px;
+    height: auto;
+    margin-bottom: 10px;
+
+   }
+  
+
+
+
+
+  .navbar ul{
+  	text-align: left;
+  }
+
+  .loc{
+  	width: 100%;
+  }
+
+  .ano{
+  	width: 180px;
+  }
+
+
+  .ano2{
+  	width: 180px;
+  }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 468px) {
+
+
+  .navbar-toggler {
+    margin-left: 200px;
+    margin-top: -120px;
+  }
+
+
+
+  .ano{
+    width: 123px;
+    margin-left: 150px;
+    height: auto;
+
+  }
+
+   .ano2{
+    width: 123px;
+    margin-right: 150px;
+    height: auto;
+    
+  }
+
+
+  .ano h5{
+    font-size: 15px;
+  }
+
+   .ano2 h5{
+    font-size: 15px;
+  }
+
+
+
+  .card1{
+    width: 100%;
+  }
+
+  .card1 img{
+    width: 222px;
+    
+  }
+
+  .card1 button{
+  margin-right:100px;
+  
+
+}
+
+
+.ic i{
+    display: none;
+    
+  }
+
+
+
+.card2{
+  width: 100%;
+  
+
+}
+
+
+.card3{
+  width: 100%;
+  height: auto;
+
+}
+
+.study{
+  width: 100%;
+  height: auto;
+}
+
+
+.study button{
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+
+.extra{
+  width: 100%;
+}
+
+.card4{
+  width: 100%;
+  height: auto;
+
+}
+
+
+
+@media only screen and (max-width: 298px) {
+
+  .card1 img{
+    width: 10px;
+  
+
+  }
+
+}
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 340px) {
+
+  .navbar-toggler {
+    margin-left: 180px;
+    margin-top: -80px;
+  }
+
+  .ic i{
+    display: none;
+    
+  }
+
+  .you1{
+    width: 100%;
+  }
+
+  .ano{
+    width: 100px;
+    margin-left: 120px;
+    height: auto;
+
+  }
+
+   .ano2{
+    width: 100px;
+    margin-right: 120px;
+    height: auto;
+    
+  }
+.card4 img{
+    width: 60px;
+    margin-left: 10px;
+  }
+  .card4 h5{
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  .card4 h6{
+    padding-left: 30px;
+  }
+
+
+
+  .ano h5{
+    font-size: 15px;
+  }
+
+   .ano2 h5{
+    font-size: 15px;
+  }
+
+
+  .you{
+
+
+    width: 100%;
+  }
+
+   .you h4{
+    width: 100%;
+  }
+
+
+
+    .card1{
+    width: 100%;
+  }
+
+  .card1 img{
+    width: 200px;
+    
+  }
+
+  .card1 button{
+  margin-right:100px;
+  
+
+}
+.card2{
+  height: auto;
+}
+
+.card2 p{
+
+  width: 70%;
+  
+  text-align: left;
+  
+ 
+}
+
+
+.card2 {
+  height: 250px;
+ 
+}
+
+
+
+}
+
+
